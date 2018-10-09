@@ -40,4 +40,7 @@ You'll also need to create a users table. A user should have a username and pass
 
 Add a migration that gives the user model a balance (should start for any user at $0), and add functionality on the account page to make deposits and withdrawals. A user should never be able to withdraw more money than they have in their account.
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-secure-password-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-secure-password-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Secure Password Lab</p>
